@@ -38,7 +38,7 @@ body{
     transform:scale(1.05,1.05);
 }
 .card_img{
-    width:100%;
+    width:92%;
     height:235px;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
